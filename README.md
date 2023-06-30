@@ -5,7 +5,7 @@
 </p>
 
 ### Links
-[![Twitter](https://img.shields.io/badge/twitter-%40lkw_23-lightblue)](https://twitter.com/lkw_23)
+[![Twitter](https://img.shields.io/badge/twitter-%40lkw_2023-lightblue)](https://twitter.com/lkw_2023)
 [![Replit](https://img.shields.io/badge/replit-%40lkwilkyway-orange)](https://replit.com/@lkwilkyway)
 [![Website](https://img.shields.io/badge/website-wilkin.studio-blue)](https://wilkin.studio)
 
