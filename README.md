@@ -12,6 +12,6 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/leowilkin)
 [![Astro](https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro)](https://github.com/leowilkin)
 ### Statistics
-[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leowilkin&show_icons=true&theme=radical)](https://github.com/leowilkin/)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leowilkin&show_icons=true&theme=radical&hide_border=true)](https://github.com/leowilkin/)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leowilkin&theme=radical)](https://github.com/leowilkin/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leowilkin&theme=radical&hide_border=true)](https://github.com/leowilkin/)
