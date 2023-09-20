@@ -14,4 +14,4 @@
 ### Statistics
 [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leowilkin&show_icons=true&theme=radical&hide_border=true)](https://github.com/leowilkin/)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leowilkin&theme=radical&hide_border=true)](https://github.com/leowilkin/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leowilkin&theme=radical&hide_border=true&style=compact)](https://github.com/leowilkin/)
