@@ -4,7 +4,7 @@
 
 ### Links
 [![X](https://img.shields.io/badge/x-%40leowilkin_-lightblue)](https://x.com/leowilkin_)
-[![Instagram](https://img.shields.io/badge/instagram-%40lkwilk23-pink)](https://instagram.com/leowilkin_)
+[![Instagram](https://img.shields.io/badge/instagram-%40leowilkin_-pink)](https://instagram.com/leowilkin_)
 [![Website](https://img.shields.io/badge/website-wilkin.studio-blue)](https://wilkin.studio)
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/leowilkin)
