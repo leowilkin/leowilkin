@@ -14,7 +14,5 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
 ### Statistics
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leowilkin&show_icons=true&theme=radical&hide_border=true)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leowilkin&theme=radical&hide_border=true&style=compact)
 
 Looking to partner? I'm open to new opportunities. DM me, or send me an email at `leo@wilkin.studio`
