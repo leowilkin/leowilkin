@@ -2,18 +2,19 @@
 
 <h3 align="center">Self-proclaimed geek & web developer. #StandUpToBullying</h3>
 
-### Links
-[![X](https://img.shields.io/badge/x-%40leowilkin_-lightblue)](https://x.com/leowilkin_)
-[![Instagram](https://img.shields.io/badge/instagram-%40leowilkin_-pink)](https://instagram.com/leowilkin_)
-[![Website](https://img.shields.io/badge/website-wilkin.studio-blue)](https://wilkin.studio)
-### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/leowilkin)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/leowilkin)
 ### Frameworks
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/leowilkin)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/leowilkin)
-[![Astro](https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro)](https://github.com/leowilkin)
+![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5)
+![Astro](https://img.shields.io/badge/astro-000000?style=for-the-badge&logo=astro)
+### Hosting
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+### My Tools
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=005BA4)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
 ### Statistics
-[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leowilkin&show_icons=true&theme=radical&hide_border=true)](https://github.com/leowilkin/)
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leowilkin&show_icons=true&theme=radical&hide_border=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leowilkin&theme=radical&hide_border=true&style=compact)](https://github.com/leowilkin/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leowilkin&theme=radical&hide_border=true&style=compact)
+
+Looking to partner? I'm open to new opportunities. DM me, or send me an email at `leo@wilkin.studio`
