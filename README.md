@@ -13,6 +13,6 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=005BA4)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
 ### Statistics
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leowilkin&show_icons=true&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=leowilkin\&show_icons=true\&theme=dark#)
 
 Looking to partner? I'm open to new opportunities. DM me, or send me an email at `leo@wilkin.studio`
