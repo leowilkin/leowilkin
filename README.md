@@ -2,6 +2,7 @@
 
 <h3 align="center">Self-proclaimed geek & web developer. #StandUpToBullying</h3>
 
+<a href="https://affiliate.notion.so/ebiyxu18risv"><img src="https://github.com/leowilkin/leowilkin/assets/64415791/5670bd02-199a-4056-ade4-bc840c7b5d13" alt="Girl in a jacket" width="200"></a>
 ### Frameworks
 ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5)
 ![Astro](https://img.shields.io/badge/astro-000000?style=for-the-badge&logo=astro)
@@ -15,5 +16,6 @@
 ### Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=leowilkin\&show_icons=true\&theme=dark#)
 
-Looking to partner? I'm open to new opportunities. DM me, or send me an email at `leo@wilkin.studio`
+
+Looking to partner? I'm open to new opportunities. DM me, or send me an email at `leo@wilkin.xyz`
 
