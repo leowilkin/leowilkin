@@ -2,6 +2,8 @@
 
 <h3 align="center">Self-proclaimed geek & web developer. #StandUpToBullying</h3>
 
+<p><b>What am I doing at the moment?</b> Working at HCB Ops @hackclub!</p>
+
 <a href="https://affiliate.notion.so/ebiyxu18risv"><img src="https://github.com/leowilkin/leowilkin/assets/64415791/5670bd02-199a-4056-ade4-bc840c7b5d13" alt="Notion" width="200"></a>
 ### Frameworks
 ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5)
@@ -16,7 +18,4 @@
 ### Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=leowilkin&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 ![Stats](https://github-readme-stats.vercel.app/api?username=leowilkin&show_icons=true&bg_color=00000000&hide_border=true)
-
-
-Looking to partner? I'm open to new opportunities. DM me, or send me an email at `leo@wilkin.xyz`
 
