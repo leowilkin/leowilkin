@@ -2,4 +2,9 @@ hi! i'm leo
 
 @hackclub event ops lead
 
-![leowilkin's GitHub Banner](https://raw.githubusercontent.com/leowilkin/leowilkin/main/banner.png)
+<a href="https://heatmap.shymike.dev?id=1&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=19&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=19&theme=dark">
+    </picture>
+</a>
